@@ -1,4 +1,3 @@
-  GNU nano 6.2                                                                                                                       Dockerfile                                                                                                                                
 # Use the official Debian slim image as a parent image
 FROM debian:bookworm-slim
 
